@@ -1,7 +1,7 @@
 # Giant does NOT Mean Strong: cryptanalysis of BQTRU
 This repository contains the scripts accompanying the article
 
-## Providing experimental results to identify the hardness of solving the SVP against NTRU lattice over cyclic group vs. DiTRU lattice after one layer of Gentry's attack
+## Providing experimental results to cryptanalyze BQTRU
 
 
 
